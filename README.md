@@ -6,4 +6,4 @@ Segue abaixo o esboço de um site que estou desenvolvendo. Atualmente só funcio
 
 flow-center.000webhostapp.com
 
-Todos os códicos útilizados estão disponíveis neste repositório: 
+Todos os códicos e arquivos útilizados estão disponíveis neste repositório: https://github.com/CristianoRez/Flow_Center
