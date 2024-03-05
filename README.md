@@ -1,9 +1,4 @@
 Olá!
 
-Me chamo Cristiano, sou Técnico em informática pelo Instituto Federal do Norte de Minas Gerais, onde aprendi a lógica de programação, back-end e front-end. Passei em segundo lugar em ciência da computação na PUC Minas pelo PROUNI, e recentemente começei a desenvolver projetos em JavaScrip e PHP.
-
-Segue abaixo o esboço de um site que estou desenvolvendo. Atualmente conta com sistema de cadastro e login:
-
-https://flow-center.000webhostapp.com
-
-Todos os códicos e arquivos útilizados estão disponíveis neste repositório: https://github.com/CristianoRez/Flow_Center
+Meu nome é Cristiano.
+Dos 15 aos 18 anos completei o ensino médio profissionalizante em técnico em informática, onde adquiri conhecimentos de redes, hardware e dei meus primeiros passos na programação. Conciliando os estudos de programação com os vestibulares, estou no 1º período de Sistemas de Infomação na UFMG, porém, com uma consolidada base em programação, já tendo desenvolvido projetos de back-end de ecommerces em PHP, utilizando o framework laravel, e front-end em JavaScript, como pode ser validado no meu repositório. 
